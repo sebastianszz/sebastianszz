@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hola, soy Sebastian 👋
 
-<!--
-**sebastianszz/sebastianszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente estoy aprendiendo programacion web full stack
+- 📫 Cómo llegar a mí: 
+- discord: sebasz#6524
+- instagram: sebastian.szz
+- email: sebasdevc78@gmail.com
+- 😄 Pronombres: seba - marce
 
-Here are some ideas to get you started:
+----
+### Proyectos en curso:
+[MrCoffee](https://github.com/19diego93/grupo_5_MrCoffee)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### 🚀 Lenguajes y herramientas
+
+* Git / GitHub
+* Html
+* Css
+* JavaScript
+* Node
+* MySQL
+### ...
+----
+
+![bahsz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianszz&show_icons=true&theme=radical)
