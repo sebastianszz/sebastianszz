@@ -4,8 +4,19 @@
 - 📫 Cómo llegar a mí: 
 - discord: sebasz#6524
 - instagram: sebastian.szz
-- email: sebasdevc78@gmail.com
+- email: sebastianszz@hotmail.com
 - 😄 Pronombres: seba - marce
+
+----
+
+### Habilidades
+
+- Diseño de logotipos.
+- Maquetador Web
+- Desarrollo web front-end.
+- Diseño de páginas web UX/UI.
+- Desarrollo web back-end.
+- Técnico en reptación de computadoras.
 
 ----
 ### Proyectos en curso:
