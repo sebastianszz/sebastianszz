@@ -26,12 +26,23 @@
 
 ### 🚀 Lenguajes y herramientas
 
-* Git / GitHub
-* Html
-* Css
-* JavaScript
-* Node
+* Node Js
+* React
+* Express
+* HTML
+* CSS
+* Creación y consumo de APIs
+* Metodologías Ágiles - Scrum
+* Patrón de arquitectura MVC
 * MySQL
+* JavaScript
+* Git / Github
+* OOP
+* Postman
+* Sequelize
+* VSCode
+* SASS
+* Puppeteer
 ### ...
 ----
 
